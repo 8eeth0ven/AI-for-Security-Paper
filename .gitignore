@@ -1,0 +1,9 @@
+# 本机 Claude Code 配置，不上传
+.claude/
+
+# 系统 / 编辑器 / 日志
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
