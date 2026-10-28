@@ -15,7 +15,8 @@ Two language copies of each document are provided:
 |---|---|
 | [`value-ranking-leaderboard.md`](value-ranking-leaderboard.md) | Leaderboard of **658** papers ranked by automated evidence score, graded **A / B / C / D**. Each row scores five dimensions: Innovation, Rigor, Authenticity (grounding), Reproducibility, and Engineering. |
 | [`comprehensive-ranking-and-detailed-reviews.md`](comprehensive-ranking-and-detailed-reviews.md) | Deep, comprehensive ranking plus per-paper in-depth reviews. Covers **328** in-window papers (main window: 2025-08-04 → 2026-08-04, conclusion date 2026-08-20; supplemental window: 2026-08-05 → 2026-10-28, +182 papers, marked 🆕) plus 1 historical reference. Contains four ranking lists — Experimental Credibility, Agent-Method Inspiration, Engineering Implementation Reuse, and Conclusion Reliability — a scoring methodology, detailed reviews of key papers, and a supplemental-window highlights section. |
-| [`per-paper-value-master-table.md`](per-paper-value-master-table.md) | Master table of per-paper content value, grouped by topic. Each row carries an overall rank, date, tier, grade/score, confidence, and a per-paper judgment (bonus / deduction reasoning). |
+| [`per-paper-value-master-table.md`](per-paper-value-master-table.md) | Master table of per-paper content value, grouped by topic. Each row carries an overall rank, date, tier, grade/score, confidence, classification tags, and a per-paper judgment (bonus / deduction reasoning). |
+| [`tag-taxonomy-and-index.md`](tag-taxonomy-and-index.md) | Four-axis tag taxonomy (method / task / target / evidence) for all 658 papers, with tag distribution and a per-tag paper index. |
 
 All three documents cover the same population of **658 papers**.
 
