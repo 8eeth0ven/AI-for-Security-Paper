@@ -13,11 +13,11 @@ Two language copies of each document are provided:
 
 | File | Description |
 |---|---|
-| [`value-ranking-leaderboard.md`](value-ranking-leaderboard.md) | Leaderboard of **476** papers ranked by automated evidence score, graded **A / B / C / D**. Each row scores five dimensions: Innovation, Rigor, Authenticity (grounding), Reproducibility, and Engineering. |
-| [`comprehensive-ranking-and-detailed-reviews.md`](comprehensive-ranking-and-detailed-reviews.md) | Deep, comprehensive ranking plus per-paper in-depth reviews. Covers **328** in-window papers (window: 2025-08-04 → 2026-08-04, conclusion date 2026-08-20) plus 1 historical reference. Contains four ranking lists — Experimental Credibility, Agent-Method Inspiration, Engineering Implementation Reuse, and Conclusion Reliability — a scoring methodology, and detailed reviews of key papers. |
+| [`value-ranking-leaderboard.md`](value-ranking-leaderboard.md) | Leaderboard of **658** papers ranked by automated evidence score, graded **A / B / C / D**. Each row scores five dimensions: Innovation, Rigor, Authenticity (grounding), Reproducibility, and Engineering. |
+| [`comprehensive-ranking-and-detailed-reviews.md`](comprehensive-ranking-and-detailed-reviews.md) | Deep, comprehensive ranking plus per-paper in-depth reviews. Covers **328** in-window papers (main window: 2025-08-04 → 2026-08-04, conclusion date 2026-08-20; supplemental window: 2026-08-05 → 2026-10-28, +182 papers, marked 🆕) plus 1 historical reference. Contains four ranking lists — Experimental Credibility, Agent-Method Inspiration, Engineering Implementation Reuse, and Conclusion Reliability — a scoring methodology, detailed reviews of key papers, and a supplemental-window highlights section. |
 | [`per-paper-value-master-table.md`](per-paper-value-master-table.md) | Master table of per-paper content value, grouped by topic. Each row carries an overall rank, date, tier, grade/score, confidence, and a per-paper judgment (bonus / deduction reasoning). |
 
-All three documents cover the same population of **476 papers**.
+All three documents cover the same population of **658 papers**.
 
 ## Topic Categories
 
@@ -32,7 +32,7 @@ All three documents cover the same population of **476 papers**.
 | Binary, Firmware & Reverse Engineering (二进制、固件与逆向分析) | 28 |
 | Software Supply Chain, Malicious Code & Packages (软件供应链、恶意代码与软件包) | 16 |
 | Benchmarks, Datasets & Evaluation Methods (基准、数据集与评测方法) | 16 |
-| **Total** | **476** |
+| **Total** | **658** |
 
 ## How to Use
 
