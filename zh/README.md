@@ -42,3 +42,5 @@
 - 使用 `逐篇论文含金量总表` 按主题浏览论文，并查看每篇的逐篇判断。
 
 > 建议阅读顺序：**中文**读者从 [`zh/README.md`](README.md) 开始；**英文**读者从 [`en/README.md`](../en/README.md) 开始。
+>
+> 更新历史见 [CHANGELOG](../CHANGELOG.md)。

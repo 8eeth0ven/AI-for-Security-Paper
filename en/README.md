@@ -42,3 +42,5 @@ All three documents cover the same population of **658 papers**.
 - Use `per-paper-value-master-table.md` to browse papers by topic and see per-paper judgments.
 
 > Reading order intended: **Chinese** readers start from [`zh/README.md`](../zh/README.md); **English** readers start here.
+
+> For update history, see [CHANGELOG](../CHANGELOG.md).

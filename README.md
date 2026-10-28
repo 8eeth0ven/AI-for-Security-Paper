@@ -28,4 +28,4 @@
 
 ---
 
-细节与评分方法见各语言版本 README。
+细节与评分方法见各语言版本 README；更新历史见 [CHANGELOG](CHANGELOG.md)。
