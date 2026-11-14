@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc" xml:lang="en">
+<title id="title">From papers to engineering decisions</title><desc id="desc">Find the research. Inspect the evidence. Decide what to adopt. Automated scores guide reading; adoption requires source evidence and independent validation.</desc>
+<rect width="1200" height="440" rx="20" fill="#fff"/>
+<rect x="1" y="1" width="1198" height="438" rx="19" fill="none" stroke="#e8e8e8"/>
+<g font-family="Arial, Microsoft YaHei, Noto Sans CJK SC, sans-serif">
+<text x="42" y="64" fill="#171717" font-size="32" font-weight="700">From papers to engineering decisions</text>
+<text x="42" y="100" fill="#666" font-size="18">Find the research. Inspect the evidence. Decide what to adopt.</text>
+<rect x="42" y="140" width="270" height="202" rx="12" fill="#fafafa" stroke="#e8e8e8"/>
+<text x="64" y="180" fill="#777" font-size="15" font-weight="700">01</text>
+<text x="64" y="222" fill="#171717" font-size="22" font-weight="700">Scan the research</text>
+<text x="64" y="264" fill="#555" font-size="15">Leaderboard / scores</text>
+<text x="64" y="297" fill="#555" font-size="15">Choose what to read first</text>
+<rect x="324" y="140" width="270" height="202" rx="12" fill="#fafafa" stroke="#e8e8e8"/>
+<text x="346" y="180" fill="#777" font-size="15" font-weight="700">02</text>
+<text x="346" y="222" fill="#171717" font-size="22" font-weight="700">Select a topic</text>
+<text x="346" y="264" fill="#555" font-size="15">Method / task / target / evidence</text>
+<text x="346" y="297" fill="#555" font-size="15">Use the table and tag index</text>
+<rect x="606" y="140" width="270" height="202" rx="12" fill="#fafafa" stroke="#e8e8e8"/>
+<text x="628" y="180" fill="#777" font-size="15" font-weight="700">03</text>
+<text x="628" y="222" fill="#171717" font-size="22" font-weight="700">Check the evidence</text>
+<text x="628" y="264" fill="#555" font-size="15">Latest paper / code / data</text>
+<text x="628" y="297" fill="#555" font-size="15">Inspect controls, tests and cost</text>
+<rect x="888" y="140" width="270" height="202" rx="12" fill="#fafafa" stroke="#e8e8e8"/>
+<text x="910" y="180" fill="#777" font-size="15" font-weight="700">04</text>
+<text x="910" y="222" fill="#171717" font-size="22" font-weight="700">Make a decision</text>
+<text x="910" y="264" fill="#555" font-size="15">Reviews / reproduction</text>
+<text x="910" y="297" fill="#555" font-size="15">Validate in your own setting</text>
+<text x="42" y="396" fill="#666" font-size="17">Automated scores guide reading; adoption requires source evidence and independent validation.</text>
+</g></svg>

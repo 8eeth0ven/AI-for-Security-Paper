@@ -481,7 +481,7 @@ Multi-axis tags for all papers in this repository. Tags were assigned per paper 
 | 25 | [VulWeaver: Weaving Broken Semantics for Grounded Vulnerability Detection](https://arxiv.org/abs/2604.10767) | B / 71 |
 | 28 | [AutoTrace: From Patches to Triggers via Agentic Interprocedural Exploration](https://arxiv.org/abs/2607.12058) | B / 71 |
 | 30 | [The History Is the Detector: Executing CVE Patch History, End-to-End](https://arxiv.org/abs/2609.05335) | B / 71 |
-| 35 | [Agent Audit: A Security AnalS System for LLM Agent Applications](https://arxiv.org/abs/2603.22853) | B / 70 |
+| 35 | [Agent Audit: A Security Analysis System for LLM Agent Applications](https://arxiv.org/abs/2603.22853) | B / 70 |
 | 38 | [VULSOLVER: Vulnerability Detection via LLM-Driven Constraint Solving](https://arxiv.org/abs/2509.00882) | B / 69 |
 | 43 | [Contextualizing Sink Knowledge for Java Vulnerability Discovery](https://arxiv.org/abs/2604.01645) | B / 69 |
 | 46 | [PACE: Policy-Attested Contract Execution for Safe AI Agents in Decentralized Finance](https://arxiv.org/abs/2608.17220) | B / 69 |
@@ -1074,7 +1074,7 @@ Multi-axis tags for all papers in this repository. Tags were assigned per paper 
 | 30 | [The History Is the Detector: Executing CVE Patch History, End-to-End](https://arxiv.org/abs/2609.05335) | B / 71 |
 | 33 | [Enhancing Continual Learning for Software Vulnerability Prediction: Addressing Catastrophic Forgetting via Hybrid-Confidence-Aware Selective Replay for Temporal LLM Fine-Tuning](https://arxiv.org/abs/2602.23834) | B / 70 |
 | 34 | [VulnAgent-R2: Evidence-Calibrated Multi-Agent Auditing for Repository-Level Vulnerability Detection](https://arxiv.org/abs/2603.13384) | B / 70 |
-| 35 | [Agent Audit: A Security AnalS System for LLM Agent Applications](https://arxiv.org/abs/2603.22853) | B / 70 |
+| 35 | [Agent Audit: A Security Analysis System for LLM Agent Applications](https://arxiv.org/abs/2603.22853) | B / 70 |
 | 36 | [Defusing Explosive Prompts: Understanding and Preventing Trigger-Based Prompt Injections in LLM Agents](https://arxiv.org/abs/2609.22510) | B / 70 |
 | 38 | [VULSOLVER: Vulnerability Detection via LLM-Driven Constraint Solving](https://arxiv.org/abs/2509.00882) | B / 69 |
 | 39 | [Sifting the Noise: A Comparative Study of LLM Agents in Vulnerability False Positive Filtering](https://arxiv.org/abs/2601.22952) | B / 69 |
@@ -1699,7 +1699,7 @@ Multi-axis tags for all papers in this repository. Tags were assigned per paper 
 |---:|---|---|
 | 9 | [An Effective and Cost-Efficient Agentic Framework for Ethereum Smart Contract Auditing](https://arxiv.org/abs/2601.17833) | B / 74 |
 | 31 | [Skill Constellations: Tracing the Supply Chain of Agent Skills on GitHub](https://arxiv.org/abs/2610.11169) | B / 71 |
-| 35 | [Agent Audit: A Security AnalS System for LLM Agent Applications](https://arxiv.org/abs/2603.22853) | B / 70 |
+| 35 | [Agent Audit: A Security Analysis System for LLM Agent Applications](https://arxiv.org/abs/2603.22853) | B / 70 |
 | 40 | [LogicScan: An LLM-driven Framework for Detecting Business Logic Vulnerabilities in Smart Contracts](https://arxiv.org/abs/2602.03271) | B / 69 |
 | 41 | [SPEAR: An Engineering Case Study of Multi-Agent Coordination for Smart Contract Auditing](https://arxiv.org/abs/2602.04418) | B / 69 |
 | 46 | [PACE: Policy-Attested Contract Execution for Safe AI Agents in Decentralized Finance](https://arxiv.org/abs/2608.17220) | B / 69 |
@@ -2041,7 +2041,7 @@ Multi-axis tags for all papers in this repository. Tags were assigned per paper 
 
 | Overall Rank | Paper | Tier |
 |---:|---|---|
-| 35 | [Agent Audit: A Security AnalS System for LLM Agent Applications](https://arxiv.org/abs/2603.22853) | B / 70 |
+| 35 | [Agent Audit: A Security Analysis System for LLM Agent Applications](https://arxiv.org/abs/2603.22853) | B / 70 |
 | 89 | [DREA: Decoupled Reasoning and Exploration Agents for Repository-Level Vulnerability Detection](https://arxiv.org/abs/2607.13439) | B / 66 |
 | 90 | [Vul4Py: Benchmarking Automated Vulnerability Repair in Python with Paired Exploit and Functional Oracles](https://arxiv.org/abs/2608.00692) | B / 66 |
 | 99 | [Taught by the Flawed: How Dataset Insecurity Breeds Vulnerable AI Code](https://arxiv.org/abs/2511.09879) | B / 65 |
@@ -2803,7 +2803,7 @@ Multi-axis tags for all papers in this repository. Tags were assigned per paper 
 | 14 | [The Next Challenge for Agentic Cybersecurity: A Realistic, Contamination-Free Reverse Engineering Benchmark](https://arxiv.org/abs/2608.11469) | B / 73 |
 | 20 | [ARQ: Agentic CodeQL Query Refinement for C/C++ Vulnerability Detection](https://arxiv.org/abs/2608.20637) | B / 72 |
 | 23 | [AVIATOR: Towards AI-Agentic Vulnerability Injection Workflow for High-Fidelity, Large-Scale Code Security Dataset](https://arxiv.org/abs/2508.20866) | B / 71 |
-| 35 | [Agent Audit: A Security AnalS System for LLM Agent Applications](https://arxiv.org/abs/2603.22853) | B / 70 |
+| 35 | [Agent Audit: A Security Analysis System for LLM Agent Applications](https://arxiv.org/abs/2603.22853) | B / 70 |
 | 37 | [HarnessSecurity-Bench: Do Security Mechanisms Really Protect Coding Agent Harnesses?](https://arxiv.org/abs/2610.07639) | B / 70 |
 | 42 | [Automated Vulnerability Detection in Source Code Using Deep Representation Learning](https://arxiv.org/abs/2602.23121) | B / 69 |
 | 46 | [PACE: Policy-Attested Contract Execution for Safe AI Agents in Decentralized Finance](https://arxiv.org/abs/2608.17220) | B / 69 |
@@ -2958,7 +2958,7 @@ Multi-axis tags for all papers in this repository. Tags were assigned per paper 
 | 22 | [Autonomous OSS Threat Detection via Taxonomy-Aligned LLMs](https://arxiv.org/abs/2610.01263) | B / 72 |
 | 28 | [AutoTrace: From Patches to Triggers via Agentic Interprocedural Exploration](https://arxiv.org/abs/2607.12058) | B / 71 |
 | 34 | [VulnAgent-R2: Evidence-Calibrated Multi-Agent Auditing for Repository-Level Vulnerability Detection](https://arxiv.org/abs/2603.13384) | B / 70 |
-| 35 | [Agent Audit: A Security AnalS System for LLM Agent Applications](https://arxiv.org/abs/2603.22853) | B / 70 |
+| 35 | [Agent Audit: A Security Analysis System for LLM Agent Applications](https://arxiv.org/abs/2603.22853) | B / 70 |
 | 47 | [CS-Guard: Benchmarking LLM Guardrails for Code Generation Security](https://arxiv.org/abs/2609.09798) | B / 69 |
 | 48 | [What is the Difference Between Me and You? Benchmarking the Quality Gap Between Human-Written and AI-Generated Code](https://arxiv.org/abs/2609.12708) | B / 69 |
 | 53 | [Quality-Assured Fuzz Harness Generation via the Four Principles Framework](https://arxiv.org/abs/2605.21824) | B / 68 |

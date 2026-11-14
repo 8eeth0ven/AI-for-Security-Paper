@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc" xml:lang="zh">
+<title id="title">从论文到工程判断</title><desc id="desc">先定位研究，再核查证据，最后决定如何采用。 自动评分辅助阅读，采用结论仍需原始证据与独立验证。</desc>
+<rect width="1200" height="440" rx="20" fill="#fff"/>
+<rect x="1" y="1" width="1198" height="438" rx="19" fill="none" stroke="#e8e8e8"/>
+<g font-family="Arial, Microsoft YaHei, Noto Sans CJK SC, sans-serif">
+<text x="42" y="64" fill="#171717" font-size="32" font-weight="700">从论文到工程判断</text>
+<text x="42" y="100" fill="#666" font-size="18">先定位研究，再核查证据，最后决定如何采用。</text>
+<rect x="42" y="140" width="270" height="202" rx="12" fill="#fafafa" stroke="#e8e8e8"/>
+<text x="64" y="180" fill="#777" font-size="15" font-weight="700">01</text>
+<text x="64" y="222" fill="#171717" font-size="22" font-weight="700">总览论文</text>
+<text x="64" y="264" fill="#555" font-size="15">排行榜 / 自动评分</text>
+<text x="64" y="297" fill="#555" font-size="15">找到值得先读的研究</text>
+<rect x="324" y="140" width="270" height="202" rx="12" fill="#fafafa" stroke="#e8e8e8"/>
+<text x="346" y="180" fill="#777" font-size="15" font-weight="700">02</text>
+<text x="346" y="222" fill="#171717" font-size="22" font-weight="700">按主题筛选</text>
+<text x="346" y="264" fill="#555" font-size="15">方法 · 任务 · 对象 · 证据</text>
+<text x="346" y="297" fill="#555" font-size="15">总表与四轴标签交叉阅读</text>
+<rect x="606" y="140" width="270" height="202" rx="12" fill="#fafafa" stroke="#e8e8e8"/>
+<text x="628" y="180" fill="#777" font-size="15" font-weight="700">03</text>
+<text x="628" y="222" fill="#171717" font-size="22" font-weight="700">核查原始证据</text>
+<text x="628" y="264" fill="#555" font-size="15">最新论文 / 代码 / 数据</text>
+<text x="628" y="297" fill="#555" font-size="15">确认负例、执行验证与成本</text>
+<rect x="888" y="140" width="270" height="202" rx="12" fill="#fafafa" stroke="#e8e8e8"/>
+<text x="910" y="180" fill="#777" font-size="15" font-weight="700">04</text>
+<text x="910" y="222" fill="#171717" font-size="22" font-weight="700">形成工程判断</text>
+<text x="910" y="264" fill="#555" font-size="15">重点评述 / 自行复现</text>
+<text x="910" y="297" fill="#555" font-size="15">在自己的场景验证取舍</text>
+<text x="42" y="396" fill="#666" font-size="17">自动评分辅助阅读，采用结论仍需原始证据与独立验证。</text>
+</g></svg>

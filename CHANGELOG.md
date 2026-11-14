@@ -1,5 +1,15 @@
 # 更新日志 / Changelog
 
+## 2026-11-14 —— 双语入口、配图与目录校准 / Bilingual documentation and catalog maintenance
+
+- 重做中文首页、独立英文首页及两种语言的阅读目录；修正根 README 和英文目录的过期主题数量，统一为正文核验的 676 篇。Rebuilt bilingual entry points and corrected stale category counts.
+- 新增明亮黑白灰横向封面、中文/英文阅读路径图与可复用 SVG 生成器。Added a generated landscape cover and bilingual SVG reading guides.
+- 明确全库目录、自动 100 分制与重点深审 10 分制的覆盖差异及局限；原分数与逐篇判断保留。Clarified score scales, extraction limitations and review availability without rescoring.
+- 将 102 处失效的分批审稿链接（两语共用 50 个缺失附件目标）改为未公开引用，保留原始引用清单；未编造缺失全文。Marked 102 broken references to 50 missing attachments as unpublished and preserved their original targets.
+- 对照原站修正 Agent Audit 标题拼写（AnalS → Analysis），同步排行榜和标签索引，不改变分数。Corrected one source-verified title typo across indexes.
+- 新增双语 JSON/CSV 导出、离线一致性检查、贡献说明与 CI；不代表独立复现研究结论。Added reproducible catalog exports, validation and maintenance instructions.
+- **论文收录仍截至 2026-11-09，本轮未新增论文、未刷新检索窗口。** No paper additions or corpus-cutoff extension in this maintenance update.
+
 ## 2026-11-09 —— 周度增补（+18 篇，总计 676 篇）
 
 - **窗口**：2026-10-29 至 2026-11-09（arXiv cs.CR / cs.SE），三重过滤与逐篇证据评分后收录 18 篇，全部表格以 🆕 标记。

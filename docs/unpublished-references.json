@@ -1,0 +1,617 @@
+{
+  "note": "Original reference targets retained without fabricating missing reviews.",
+  "references": [
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第二批_基准修复逻辑漏洞与误报治理.md",
+      "label": "`深度审稿_第二批_基准修复逻辑漏洞与误报治理.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第二批_基准修复逻辑漏洞与误报治理.md",
+      "label": "`深度审稿_第二批_基准修复逻辑漏洞与误报治理.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第三批_验证器语义图触发定位与证据推理.md",
+      "label": "`深度审稿_第三批_验证器语义图触发定位与证据推理.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第四批_规范查询合成现实泛化与对抗偏差.md",
+      "label": "`深度审稿_第四批_规范查询合成现实泛化与对抗偏差.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第五批_安全校准因果推理严重度验证修复与告警处置.md",
+      "label": "`深度审稿_第五批_安全校准因果推理严重度验证修复与告警处置.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第六批_链上执行安全生成漏洞注入与全生命周期管理.md",
+      "label": "`深度审稿_第六批_链上执行安全生成漏洞注入与全生命周期管理.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第七批_对照运行时复现契约数据与Agent审计.md",
+      "label": "`深度审稿_第七批_对照运行时复现契约数据与Agent审计.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第八批_约束复现规则模糊测试代码审查与安全生成基准.md",
+      "label": "`深度审稿_第八批_约束复现规则模糊测试代码审查与安全生成基准.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第九批_二进制修复Harness定位业务逻辑与C++安全评测.md",
+      "label": "`深度审稿_第九批_二进制修复Harness定位业务逻辑与C++安全评测.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第十批_修复Oracle跨语言基准复现PoC与校准失效.md",
+      "label": "`深度审稿_第十批_修复Oracle跨语言基准复现PoC与校准失效.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第十一批_可复现漏洞规范推断修复基准与告警裁决.md",
+      "label": "`深度审稿_第十一批_可复现漏洞规范推断修复基准与告警裁决.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第十二批_时间漂移专用推理不变量知识图上下文与认知攻击.md",
+      "label": "`深度审稿_第十二批_时间漂移专用推理不变量知识图上下文与认知攻击.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第十三批_多Agent轻量检测规范驱动与智能合约知识图.md",
+      "label": "`深度审稿_第十三批_多Agent轻量检测规范驱动与智能合约知识图.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第十四批_多视角推理角色评测工业软件修复与规格知识.md",
+      "label": "`深度审稿_第十四批_多视角推理角色评测工业软件修复与规格知识.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第十五批_端到端基准假设验证二进制知识图误报与修复经验.md",
+      "label": "`深度审稿_第十五批_端到端基准假设验证二进制知识图误报与修复经验.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第十六批_领域漂移攻击合成工作流数据污染密码逻辑与知识图PoC.md",
+      "label": "`深度审稿_第十六批_领域漂移攻击合成工作流数据污染密码逻辑与知识图PoC.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第十七批_复杂度验证安全审查富文本双模基准与三路上下文.md",
+      "label": "`深度审稿_第十七批_复杂度验证安全审查富文本双模基准与三路上下文.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第十八批_图证据异构验证利用生成仓库内存安全规则合成与静态重编排.md",
+      "label": "`深度审稿_第十八批_图证据异构验证利用生成仓库内存安全规则合成与静态重编排.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第十九批_补丁验证Harness合成执行反馈Java基准神经符号与审计Playbook.md",
+      "label": "`深度审稿_第十九批_补丁验证Harness合成执行反馈Java基准神经符号与审计Playbook.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第二十批_DeFi价格操纵数据驱动模糊测试多模型协调与失真证据.md",
+      "label": "`深度审稿_第二十批_DeFi价格操纵数据驱动模糊测试多模型协调与失真证据.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第二十一批_定向模糊测试轻量图TEE修复提交审查工业修复与现实渗透评测.md",
+      "label": "`深度审稿_第二十一批_定向模糊测试轻量图TEE修复提交审查工业修复与现实渗透评测.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第二十二批_现实渗透根因修复语义污点定向模糊测试神经符号与Web评测.md",
+      "label": "`深度审稿_第二十二批_现实渗透根因修复语义污点定向模糊测试神经符号与Web评测.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第二十三批_差分密码审计Node.js验证跨过程上下文修复评测对抗补丁与利用迁移.md",
+      "label": "`深度审稿_第二十三批_差分密码审计Node.js验证跨过程上下文修复评测对抗补丁与利用迁移.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第二十四批_不可编译合约Python漏洞数据检索层级指标智能合约生成与SAST治理.md",
+      "label": "`深度审稿_第二十四批_不可编译合约Python漏洞数据检索层级指标智能合约生成与SAST治理.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第二十五批_智能合约Agent技能供应链跨语言误报本地Agent运行时与容器修复.md",
+      "label": "`深度审稿_第二十五批_智能合约Agent技能供应链跨语言误报本地Agent运行时与容器修复.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第二十六批_硬件安全投毒扫描Android漏洞Python修复安全评审与仓库数据构建.md",
+      "label": "`深度审稿_第二十六批_硬件安全投毒扫描Android漏洞Python修复安全评审与仓库数据构建.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第二十七批_XSS验证定向模糊测试安全代码形式化Android知识复用仓库RL与固件树Agent.md",
+      "label": "`深度审稿_第二十七批_XSS验证定向模糊测试安全代码形式化Android知识复用仓库RL与固件树Agent.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第二十八批_对抗注释深度学习框架静态分析程序表示安全生成重构PR与自适应模糊测试.md",
+      "label": "`深度审稿_第二十八批_对抗注释深度学习框架静态分析程序表示安全生成重构PR与自适应模糊测试.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第三十批_AI代码质量组件审计多Agent自节奏检测库误用与跨语言失真.md",
+      "label": "深度审稿_第三十批_AI代码质量组件审计多Agent自节奏检测库误用与跨语言失真.md",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第三十一批_系统综述风格检测轻量基线几何失衡神经回路与知识增强修复.md",
+      "label": "深度审稿_第三十一批_系统综述风格检测轻量基线几何失衡神经回路与知识增强修复.md",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第三十二批_执行隔离对抗合约验证Oracle反思模糊测试Android路径与安全评测.md",
+      "label": "`深度审稿_第三十二批_执行隔离对抗合约验证Oracle反思模糊测试Android路径与安全评测.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第三十三批_补丁编排延迟漏洞SZZ智能体漏洞管理与知识修复.md",
+      "label": "`深度审稿_第三十三批_补丁编排延迟漏洞SZZ智能体漏洞管理与知识修复.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第三十四批_密码补丁链式审计提示句法IaC与对抗失真.md",
+      "label": "`深度审稿_第三十四批_密码补丁链式审计提示句法IaC与对抗失真.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第三十五批_真实CVE提示审计包检测安全推理与库幻觉.md",
+      "label": "`深度审稿_第三十五批_真实CVE提示审计包检测安全推理与库幻觉.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第三十六批_仓库定位符号执行安全实践图语义锚点与多模态检测.md",
+      "label": "`深度审稿_第三十六批_仓库定位符号执行安全实践图语义锚点与多模态检测.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第三十七批_安全生成基准TPL检测对抗混淆硬件RAG与流动性审计.md",
+      "label": "`深度审稿_第三十七批_安全生成基准TPL检测对抗混淆硬件RAG与流动性审计.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第三十八批_程序分析PoC生成仓库安全基准插件保证DeFi数据与分布漂移.md",
+      "label": "`深度审稿_第三十八批_程序分析PoC生成仓库安全基准插件保证DeFi数据与分布漂移.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第三十九批_图验证强化学习工具修复技能信号NLPL边界与因果图审计.md",
+      "label": "`深度审稿_第三十九批_图验证强化学习工具修复技能信号NLPL边界与因果图审计.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第四十批_交易轨迹工业模糊测试图语义野外AI代码强化学习与重入检测.md",
+      "label": "`深度审稿_第四十批_交易轨迹工业模糊测试图语义野外AI代码强化学习与重入检测.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第四十一批_竞赛推理固件验证字节码相似PoV生成合约图与恶意包切片.md",
+      "label": "`深度审稿_第四十一批_竞赛推理固件验证字节码相似PoV生成合约图与恶意包切片.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第四十二批_多模型共识函数式生成安全执行漏洞分析PR生态与合约Agent重评.md",
+      "label": "`深度审稿_第四十二批_多模型共识函数式生成安全执行漏洞分析PR生态与合约Agent重评.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第四十三批_执行验证DeFi历史匹配代码来源知识演化合约语料与恶意包Agent.md",
+      "label": "`深度审稿_第四十三批_执行验证DeFi历史匹配代码来源知识演化合约语料与恶意包Agent.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第四十四批_仓库基准MCP污点AI基础设施变体生产CVE误报治理Rust符号执行与约束抽象.md",
+      "label": "`深度审稿_第四十四批_仓库基准MCP污点AI基础设施变体生产CVE误报治理Rust符号执行与约束抽象.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第四十五批_安全长周期形式化验证技能生态语义陷阱RAG双AgentHarness与Rust误报治理.md",
+      "label": "`深度审稿_第四十五批_安全长周期形式化验证技能生态语义陷阱RAG双AgentHarness与Rust误报治理.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第四十六批_合约三模式PoC数据库模糊测试安全反思移动TLS可达性反事实与提示泄漏.md",
+      "label": "`深度审稿_第四十六批_合约三模式PoC数据库模糊测试安全反思移动TLS可达性反事实与提示泄漏.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第四十七批_谓词引导模糊测试签名重放DeFi逻辑跨链审计分级利用与合约验证.md",
+      "label": "`深度审稿_第四十七批_谓词引导模糊测试签名重放DeFi逻辑跨链审计分级利用与合约验证.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第四十八批_代码审查引导模糊测试多层Oracle漏洞复现二进制Agent崩溃治理与关系图审计.md",
+      "label": "`深度审稿_第四十八批_代码审查引导模糊测试多层Oracle漏洞复现二进制Agent崩溃治理与关系图审计.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第四十九批_跨构建二进制秘密检测跨链语义后门防御伪代码翻译补丁定位污点图与合约推理基准.md",
+      "label": "`深度审稿_第四十九批_跨构建二进制秘密检测跨链语义后门防御伪代码翻译补丁定位污点图与合约推理基准.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第五十批_多语言修复攻击映射跨域检测合成漏洞模糊测试SZZ二进制反编译与层级CWE.md",
+      "label": "`深度审稿_第五十批_多语言修复攻击映射跨域检测合成漏洞模糊测试SZZ二进制反编译与层级CWE.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第五十一批_安全合约多语言检测补丁后零日提示微调供应链Agent脚本修复与代码指纹.md",
+      "label": "`深度审稿_第五十一批_安全合约多语言检测补丁后零日提示微调供应链Agent脚本修复与代码指纹.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "zh/深度综合排名与逐篇审稿.md",
+      "original_target": "./深度审稿_第五十二批_组合漏洞诱导安全API拒绝评测混淆检测恶意包多模态融合AndroidAgent与合约克隆.md",
+      "label": "`深度审稿_第五十二批_组合漏洞诱导安全API拒绝评测混淆检测恶意包多模态融合AndroidAgent与合约克隆.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第二批_基准修复逻辑漏洞与误报治理.md",
+      "label": "`深度审稿_第二批_基准修复逻辑漏洞与误报治理.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第二批_基准修复逻辑漏洞与误报治理.md",
+      "label": "`深度审稿_第二批_基准修复逻辑漏洞与误报治理.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第三批_验证器语义图触发定位与证据推理.md",
+      "label": "`深度审稿_第三批_验证器语义图触发定位与证据推理.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第四批_规范查询合成现实泛化与对抗偏差.md",
+      "label": "`深度审稿_第四批_规范查询合成现实泛化与对抗偏差.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第五批_安全校准因果推理严重度验证修复与告警处置.md",
+      "label": "`深度审稿_第五批_安全校准因果推理严重度验证修复与告警处置.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第六批_链上执行安全生成漏洞注入与全生命周期管理.md",
+      "label": "`深度审稿_第六批_链上执行安全生成漏洞注入与全生命周期管理.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第七批_对照运行时复现契约数据与Agent审计.md",
+      "label": "`深度审稿_第七批_对照运行时复现契约数据与Agent审计.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第八批_约束复现规则模糊测试代码审查与安全生成基准.md",
+      "label": "`深度审稿_第八批_约束复现规则模糊测试代码审查与安全生成基准.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第九批_二进制修复Harness定位业务逻辑与C++安全评测.md",
+      "label": "`深度审稿_第九批_二进制修复Harness定位业务逻辑与C++安全评测.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第十批_修复Oracle跨语言基准复现PoC与校准失效.md",
+      "label": "`深度审稿_第十批_修复Oracle跨语言基准复现PoC与校准失效.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第十一批_可复现漏洞规范推断修复基准与告警裁决.md",
+      "label": "`深度审稿_第十一批_可复现漏洞规范推断修复基准与告警裁决.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第十二批_时间漂移专用推理不变量知识图上下文与认知攻击.md",
+      "label": "`深度审稿_第十二批_时间漂移专用推理不变量知识图上下文与认知攻击.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第十三批_多Agent轻量检测规范驱动与智能合约知识图.md",
+      "label": "`深度审稿_第十三批_多Agent轻量检测规范驱动与智能合约知识图.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第十四批_多视角推理角色评测工业软件修复与规格知识.md",
+      "label": "`深度审稿_第十四批_多视角推理角色评测工业软件修复与规格知识.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第十五批_端到端基准假设验证二进制知识图误报与修复经验.md",
+      "label": "`深度审稿_第十五批_端到端基准假设验证二进制知识图误报与修复经验.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第十六批_领域漂移攻击合成工作流数据污染密码逻辑与知识图PoC.md",
+      "label": "`深度审稿_第十六批_领域漂移攻击合成工作流数据污染密码逻辑与知识图PoC.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第十七批_复杂度验证安全审查富文本双模基准与三路上下文.md",
+      "label": "`深度审稿_第十七批_复杂度验证安全审查富文本双模基准与三路上下文.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第十八批_图证据异构验证利用生成仓库内存安全规则合成与静态重编排.md",
+      "label": "`深度审稿_第十八批_图证据异构验证利用生成仓库内存安全规则合成与静态重编排.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第十九批_补丁验证Harness合成执行反馈Java基准神经符号与审计Playbook.md",
+      "label": "`深度审稿_第十九批_补丁验证Harness合成执行反馈Java基准神经符号与审计Playbook.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第二十批_DeFi价格操纵数据驱动模糊测试多模型协调与失真证据.md",
+      "label": "`深度审稿_第二十批_DeFi价格操纵数据驱动模糊测试多模型协调与失真证据.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第二十一批_定向模糊测试轻量图TEE修复提交审查工业修复与现实渗透评测.md",
+      "label": "`深度审稿_第二十一批_定向模糊测试轻量图TEE修复提交审查工业修复与现实渗透评测.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第二十二批_现实渗透根因修复语义污点定向模糊测试神经符号与Web评测.md",
+      "label": "`深度审稿_第二十二批_现实渗透根因修复语义污点定向模糊测试神经符号与Web评测.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第二十三批_差分密码审计Node.js验证跨过程上下文修复评测对抗补丁与利用迁移.md",
+      "label": "`深度审稿_第二十三批_差分密码审计Node.js验证跨过程上下文修复评测对抗补丁与利用迁移.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第二十四批_不可编译合约Python漏洞数据检索层级指标智能合约生成与SAST治理.md",
+      "label": "`深度审稿_第二十四批_不可编译合约Python漏洞数据检索层级指标智能合约生成与SAST治理.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第二十五批_智能合约Agent技能供应链跨语言误报本地Agent运行时与容器修复.md",
+      "label": "`深度审稿_第二十五批_智能合约Agent技能供应链跨语言误报本地Agent运行时与容器修复.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第二十六批_硬件安全投毒扫描Android漏洞Python修复安全评审与仓库数据构建.md",
+      "label": "`深度审稿_第二十六批_硬件安全投毒扫描Android漏洞Python修复安全评审与仓库数据构建.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第二十七批_XSS验证定向模糊测试安全代码形式化Android知识复用仓库RL与固件树Agent.md",
+      "label": "`深度审稿_第二十七批_XSS验证定向模糊测试安全代码形式化Android知识复用仓库RL与固件树Agent.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第二十八批_对抗注释深度学习框架静态分析程序表示安全生成重构PR与自适应模糊测试.md",
+      "label": "`深度审稿_第二十八批_对抗注释深度学习框架静态分析程序表示安全生成重构PR与自适应模糊测试.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第三十批_AI代码质量组件审计多Agent自节奏检测库误用与跨语言失真.md",
+      "label": "深度审稿_第三十批_AI代码质量组件审计多Agent自节奏检测库误用与跨语言失真.md",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第三十一批_系统综述风格检测轻量基线几何失衡神经回路与知识增强修复.md",
+      "label": "深度审稿_第三十一批_系统综述风格检测轻量基线几何失衡神经回路与知识增强修复.md",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第三十二批_执行隔离对抗合约验证Oracle反思模糊测试Android路径与安全评测.md",
+      "label": "`深度审稿_第三十二批_执行隔离对抗合约验证Oracle反思模糊测试Android路径与安全评测.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第三十三批_补丁编排延迟漏洞SZZ智能体漏洞管理与知识修复.md",
+      "label": "`深度审稿_第三十三批_补丁编排延迟漏洞SZZ智能体漏洞管理与知识修复.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第三十四批_密码补丁链式审计提示句法IaC与对抗失真.md",
+      "label": "`深度审稿_第三十四批_密码补丁链式审计提示句法IaC与对抗失真.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第三十五批_真实CVE提示审计包检测安全推理与库幻觉.md",
+      "label": "`深度审稿_第三十五批_真实CVE提示审计包检测安全推理与库幻觉.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第三十六批_仓库定位符号执行安全实践图语义锚点与多模态检测.md",
+      "label": "`深度审稿_第三十六批_仓库定位符号执行安全实践图语义锚点与多模态检测.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第三十七批_安全生成基准TPL检测对抗混淆硬件RAG与流动性审计.md",
+      "label": "`深度审稿_第三十七批_安全生成基准TPL检测对抗混淆硬件RAG与流动性审计.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第三十八批_程序分析PoC生成仓库安全基准插件保证DeFi数据与分布漂移.md",
+      "label": "`深度审稿_第三十八批_程序分析PoC生成仓库安全基准插件保证DeFi数据与分布漂移.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第三十九批_图验证强化学习工具修复技能信号NLPL边界与因果图审计.md",
+      "label": "`深度审稿_第三十九批_图验证强化学习工具修复技能信号NLPL边界与因果图审计.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第四十批_交易轨迹工业模糊测试图语义野外AI代码强化学习与重入检测.md",
+      "label": "`深度审稿_第四十批_交易轨迹工业模糊测试图语义野外AI代码强化学习与重入检测.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第四十一批_竞赛推理固件验证字节码相似PoV生成合约图与恶意包切片.md",
+      "label": "`深度审稿_第四十一批_竞赛推理固件验证字节码相似PoV生成合约图与恶意包切片.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第四十二批_多模型共识函数式生成安全执行漏洞分析PR生态与合约Agent重评.md",
+      "label": "`深度审稿_第四十二批_多模型共识函数式生成安全执行漏洞分析PR生态与合约Agent重评.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第四十三批_执行验证DeFi历史匹配代码来源知识演化合约语料与恶意包Agent.md",
+      "label": "`深度审稿_第四十三批_执行验证DeFi历史匹配代码来源知识演化合约语料与恶意包Agent.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第四十四批_仓库基准MCP污点AI基础设施变体生产CVE误报治理Rust符号执行与约束抽象.md",
+      "label": "`深度审稿_第四十四批_仓库基准MCP污点AI基础设施变体生产CVE误报治理Rust符号执行与约束抽象.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第四十五批_安全长周期形式化验证技能生态语义陷阱RAG双AgentHarness与Rust误报治理.md",
+      "label": "`深度审稿_第四十五批_安全长周期形式化验证技能生态语义陷阱RAG双AgentHarness与Rust误报治理.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第四十六批_合约三模式PoC数据库模糊测试安全反思移动TLS可达性反事实与提示泄漏.md",
+      "label": "`深度审稿_第四十六批_合约三模式PoC数据库模糊测试安全反思移动TLS可达性反事实与提示泄漏.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第四十七批_谓词引导模糊测试签名重放DeFi逻辑跨链审计分级利用与合约验证.md",
+      "label": "`深度审稿_第四十七批_谓词引导模糊测试签名重放DeFi逻辑跨链审计分级利用与合约验证.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第四十八批_代码审查引导模糊测试多层Oracle漏洞复现二进制Agent崩溃治理与关系图审计.md",
+      "label": "`深度审稿_第四十八批_代码审查引导模糊测试多层Oracle漏洞复现二进制Agent崩溃治理与关系图审计.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第四十九批_跨构建二进制秘密检测跨链语义后门防御伪代码翻译补丁定位污点图与合约推理基准.md",
+      "label": "`深度审稿_第四十九批_跨构建二进制秘密检测跨链语义后门防御伪代码翻译补丁定位污点图与合约推理基准.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第五十批_多语言修复攻击映射跨域检测合成漏洞模糊测试SZZ二进制反编译与层级CWE.md",
+      "label": "`深度审稿_第五十批_多语言修复攻击映射跨域检测合成漏洞模糊测试SZZ二进制反编译与层级CWE.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第五十一批_安全合约多语言检测补丁后零日提示微调供应链Agent脚本修复与代码指纹.md",
+      "label": "`深度审稿_第五十一批_安全合约多语言检测补丁后零日提示微调供应链Agent脚本修复与代码指纹.md`",
+      "status": "not_in_public_repository"
+    },
+    {
+      "source": "en/comprehensive-ranking-and-detailed-reviews.md",
+      "original_target": "./深度审稿_第五十二批_组合漏洞诱导安全API拒绝评测混淆检测恶意包多模态融合AndroidAgent与合约克隆.md",
+      "label": "`深度审稿_第五十二批_组合漏洞诱导安全API拒绝评测混淆检测恶意包多模态融合AndroidAgent与合约克隆.md`",
+      "status": "not_in_public_repository"
+    }
+  ]
+}

@@ -1,6 +1,8 @@
 # Value Ranking Leaderboard
 
-The following is sorted by automated evidence score; it is recommended to prioritize manual review of S/A-grade papers, with B-grade papers serving as a reference for topic coverage and engineering selection.
+> Automated scores prioritize reading; they are not independent reproduction or peer review. Extraction misses do not establish absence of experiments or artifacts. See [methodology](../docs/methodology.en.md).
+
+The following is sorted by automated evidence score; it is recommended to prioritize manual review of A-grade papers, with B-grade papers serving as a reference for topic coverage and engineering selection.
 
 | Rank | Paper | Topic | Score | Innovation | Rigor | Authenticity | Reproducibility | Engineering |
 |---:|---|---|---:|---:|---:|---:|---:|---:|
@@ -38,7 +40,7 @@ The following is sorted by automated evidence score; it is recommended to priori
 | 32 | [LLM Agents for Automated Web Vulnerability Reproduction: Are We There Yet?](https://arxiv.org/abs/2510.14700) | Vulnerability Detection, Localization, and Verification | B / 70 | 16 | 21 | 13 | 5 | 15 |
 | 33 | [Enhancing Continual Learning for Software Vulnerability Prediction: Addressing Catastrophic Forgetting via Hybrid-Confidence-Aware Selective Replay for Temporal LLM Fine-Tuning](https://arxiv.org/abs/2602.23834) | Vulnerability Detection, Localization, and Verification | B / 70 | 14 | 27 | 13 | 3 | 13 |
 | 34 | [VulnAgent-R2: Evidence-Calibrated Multi-Agent Auditing for Repository-Level Vulnerability Detection](https://arxiv.org/abs/2603.13384) | Vulnerability Detection, Localization, and Verification | B / 70 | 14 | 24 | 13 | 6 | 13 |
-| 35 | [Agent Audit: A Security AnalS System for LLM Agent Applications](https://arxiv.org/abs/2603.22853) | Secure Code Review and Static Analysis | B / 70 | 18 | 19 | 13 | 5 | 15 |
+| 35 | [Agent Audit: A Security Analysis System for LLM Agent Applications](https://arxiv.org/abs/2603.22853) | Secure Code Review and Static Analysis | B / 70 | 18 | 19 | 13 | 5 | 15 |
 | 36 | [Defusing Explosive Prompts: Understanding and Preventing Trigger-Based Prompt Injections in LLM Agents](https://arxiv.org/abs/2609.22510) 🆕 | Security of AI-Generated Code | B / 70 | 15 | 22 | 14 | 7 | 12 |
 | 37 | [HarnessSecurity-Bench: Do Security Mechanisms Really Protect Coding Agent Harnesses?](https://arxiv.org/abs/2610.07639) 🆕 | Security of AI-Generated Code | B / 70 | 16 | 22 | 14 | 5 | 13 |
 | 38 | [VULSOLVER: Vulnerability Detection via LLM-Driven Constraint Solving](https://arxiv.org/abs/2509.00882) | Vulnerability Detection, Localization, and Verification | B / 69 | 10 | 24 | 18 | 5 | 12 |
